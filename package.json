@@ -1,0 +1,16 @@
+{
+  "name": "telegram-whatsapp-session-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for generating WhatsApp session ID using an API",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "Arslanmdofficial",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "node-fetch": "^2.6.9",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
